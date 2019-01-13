@@ -1,0 +1,174 @@
+Files already downloaded and verified
+Files already downloaded and verified
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 92.5667, val_acc: 94.7400, sparsity: 66.3634
+1 trials: score: 0.1535, train_acc:92.5667, val_acc:94.7400, test_acc:88.1000, sparsity:66.3634
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 87.6733, val_acc: 91.8800, sparsity: 64.1261
+2 trials: score: 0.1888, train_acc:87.6733, val_acc:91.8800, test_acc:86.6000, sparsity:64.1261
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 82.1822, val_acc: 88.7400, sparsity: 66.7591
+3 trials: score: 0.2123, train_acc:82.1822, val_acc:88.7400, test_acc:84.5100, sparsity:66.7591
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 92.8400, val_acc: 95.7200, sparsity: 63.4922
+4 trials: score: 0.1523, train_acc:92.8400, val_acc:95.7200, test_acc:88.3900, sparsity:63.4922
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 87.8933, val_acc: 92.3800, sparsity: 61.7990
+5 trials: score: 0.1908, train_acc:87.8933, val_acc:92.3800, test_acc:87.0800, sparsity:61.7990
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 91.5444, val_acc: 93.7000, sparsity: 64.2736
+6 trials: score: 0.1702, train_acc:91.5444, val_acc:93.7000, test_acc:87.2700, sparsity:64.2736
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 88.6244, val_acc: 92.6400, sparsity: 64.7719
+7 trials: score: 0.1793, train_acc:88.6244, val_acc:92.6400, test_acc:87.3000, sparsity:64.7719
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 94.4311, val_acc: 96.3400, sparsity: 65.9181
+8 trials: score: 0.1388, train_acc:94.4311, val_acc:96.3400, test_acc:88.8200, sparsity:65.9181
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 92.4044, val_acc: 94.9600, sparsity: 63.7628
+9 trials: score: 0.1591, train_acc:92.4044, val_acc:94.9600, test_acc:88.4700, sparsity:63.7628
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 91.4022, val_acc: 94.6000, sparsity: 62.7523
+10 trials: score: 0.1657, train_acc:91.4022, val_acc:94.6000, test_acc:88.0300, sparsity:62.7523
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 89.5067, val_acc: 93.7800, sparsity: 68.3384
+Epoch: 1, train_acc: 90.5933, val_acc: 90.8400, sparsity: 68.3384
+Epoch: 2, train_acc: 92.1000, val_acc: 93.7800, sparsity: 68.3384
+Epoch: 3, train_acc: 92.9956, val_acc: 93.7400, sparsity: 68.3384
+Epoch: 4, train_acc: 93.8200, val_acc: 94.7600, sparsity: 68.3384
+Epoch: 5, train_acc: 94.2089, val_acc: 94.6400, sparsity: 68.3384
+Epoch: 6, train_acc: 94.9333, val_acc: 94.1000, sparsity: 68.3384
+Epoch: 7, train_acc: 94.9022, val_acc: 93.6800, sparsity: 68.3384
+Epoch: 8, train_acc: 95.3111, val_acc: 95.4600, sparsity: 68.3384
+Epoch: 9, train_acc: 95.3511, val_acc: 94.5400, sparsity: 68.3384
+Epoch: 10, train_acc: 97.1711, val_acc: 95.3000, sparsity: 68.3384
+Epoch: 11, train_acc: 97.4533, val_acc: 96.1400, sparsity: 68.3384
+Epoch: 12, train_acc: 97.5556, val_acc: 96.8200, sparsity: 68.3384
+Epoch: 13, train_acc: 97.7689, val_acc: 95.7400, sparsity: 68.3384
+Epoch: 14, train_acc: 97.6400, val_acc: 95.8000, sparsity: 68.3384
+Epoch: 15, train_acc: 97.7533, val_acc: 96.4800, sparsity: 68.3384
+Epoch: 16, train_acc: 97.7867, val_acc: 96.4200, sparsity: 68.3384
+Epoch: 17, train_acc: 97.9289, val_acc: 96.0000, sparsity: 68.3384
+Epoch: 18, train_acc: 97.9289, val_acc: 95.0800, sparsity: 68.3384
+Epoch: 19, train_acc: 97.9644, val_acc: 95.9600, sparsity: 68.3384
+Epoch: 20, train_acc: 98.8022, val_acc: 96.8800, sparsity: 68.3384
+Epoch: 21, train_acc: 98.9222, val_acc: 97.1200, sparsity: 68.3384
+Epoch: 22, train_acc: 98.9822, val_acc: 97.1800, sparsity: 68.3384
+Epoch: 23, train_acc: 98.9600, val_acc: 96.8200, sparsity: 68.3384
+Epoch: 24, train_acc: 98.9222, val_acc: 97.3000, sparsity: 68.3384
+Epoch: 25, train_acc: 98.9600, val_acc: 97.0200, sparsity: 68.3384
+Epoch: 26, train_acc: 98.9533, val_acc: 97.1000, sparsity: 68.3384
+Epoch: 27, train_acc: 99.0822, val_acc: 97.1000, sparsity: 68.3384
+Epoch: 28, train_acc: 99.0489, val_acc: 97.0000, sparsity: 68.3384
+Epoch: 29, train_acc: 98.9956, val_acc: 96.5000, sparsity: 68.3384
+Epoch: 30, train_acc: 99.0800, val_acc: 97.0000, sparsity: 68.3384
+Epoch: 31, train_acc: 99.0600, val_acc: 97.0400, sparsity: 68.3384
+Epoch: 32, train_acc: 99.1911, val_acc: 96.7600, sparsity: 68.3384
+Epoch: 33, train_acc: 99.1978, val_acc: 96.8400, sparsity: 68.3384
+Epoch: 34, train_acc: 99.1467, val_acc: 96.8000, sparsity: 68.3384
+Epoch: 35, train_acc: 99.3889, val_acc: 97.3600, sparsity: 68.3384
+Epoch: 36, train_acc: 99.3733, val_acc: 97.4400, sparsity: 68.3384
+Epoch: 37, train_acc: 99.4978, val_acc: 97.0600, sparsity: 68.3384
+Epoch: 38, train_acc: 99.4022, val_acc: 97.2600, sparsity: 68.3384
+Epoch: 39, train_acc: 99.4756, val_acc: 97.1800, sparsity: 68.3384
+Epoch: 40, train_acc: 99.5333, val_acc: 97.6200, sparsity: 68.3384
+Epoch: 41, train_acc: 99.4178, val_acc: 96.9800, sparsity: 68.3384
+Epoch: 42, train_acc: 99.5089, val_acc: 97.7000, sparsity: 68.3384
+Epoch: 43, train_acc: 99.4467, val_acc: 97.4000, sparsity: 68.3384
+Epoch: 44, train_acc: 99.4689, val_acc: 97.9400, sparsity: 68.3384
+Epoch: 45, train_acc: 99.5667, val_acc: 97.3600, sparsity: 68.3384
+Epoch: 46, train_acc: 99.4889, val_acc: 97.5400, sparsity: 68.3384
+Epoch: 47, train_acc: 99.5200, val_acc: 97.5200, sparsity: 68.3384
+Epoch: 48, train_acc: 99.4800, val_acc: 97.6600, sparsity: 68.3384
+Epoch: 49, train_acc: 99.5133, val_acc: 97.6400, sparsity: 68.3384
+Epoch: 50, train_acc: 99.5333, val_acc: 97.4200, sparsity: 68.3384
+Epoch: 51, train_acc: 99.4978, val_acc: 97.2800, sparsity: 68.3384
+Epoch: 52, train_acc: 99.5311, val_acc: 97.5400, sparsity: 68.3384
+Epoch: 53, train_acc: 99.5800, val_acc: 97.5000, sparsity: 68.3384
+Epoch: 54, train_acc: 99.5667, val_acc: 96.9800, sparsity: 68.3384
+Epoch: 55, train_acc: 99.5178, val_acc: 97.3400, sparsity: 68.3384
+Epoch: 56, train_acc: 99.5244, val_acc: 97.3000, sparsity: 68.3384
+Epoch: 57, train_acc: 99.5933, val_acc: 97.4600, sparsity: 68.3384
+Epoch: 58, train_acc: 99.5889, val_acc: 97.6200, sparsity: 68.3384
+Epoch: 59, train_acc: 99.5778, val_acc: 97.6600, sparsity: 68.3384
+Epoch: 60, train_acc: 99.5667, val_acc: 97.2600, sparsity: 68.3384
+Epoch: 61, train_acc: 99.5489, val_acc: 97.0800, sparsity: 68.3384
+Epoch: 62, train_acc: 99.5644, val_acc: 97.3800, sparsity: 68.3384
+Epoch: 63, train_acc: 99.5800, val_acc: 97.3000, sparsity: 68.3384
+Epoch: 64, train_acc: 99.5800, val_acc: 97.3800, sparsity: 68.3384
+Epoch: 65, train_acc: 99.5644, val_acc: 97.6200, sparsity: 68.3384
+Epoch: 66, train_acc: 99.5600, val_acc: 97.0200, sparsity: 68.3384
+Epoch: 67, train_acc: 99.6289, val_acc: 97.8200, sparsity: 68.3384
+Epoch: 68, train_acc: 99.5600, val_acc: 97.3800, sparsity: 68.3384
+Epoch: 69, train_acc: 99.6244, val_acc: 97.4600, sparsity: 68.3384
+Epoch: 70, train_acc: 99.6044, val_acc: 97.6800, sparsity: 68.3384
+Epoch: 71, train_acc: 99.6044, val_acc: 97.4200, sparsity: 68.3384
+Epoch: 72, train_acc: 99.6000, val_acc: 97.6600, sparsity: 68.3384
+Epoch: 73, train_acc: 99.6378, val_acc: 97.7600, sparsity: 68.3384
+Epoch: 74, train_acc: 99.5222, val_acc: 97.1800, sparsity: 68.3384
+Epoch: 75, train_acc: 99.6289, val_acc: 97.2200, sparsity: 68.3384
+Epoch: 76, train_acc: 99.5822, val_acc: 97.3200, sparsity: 68.3384
+Epoch: 77, train_acc: 99.6467, val_acc: 97.6600, sparsity: 68.3384
+Epoch: 78, train_acc: 99.6578, val_acc: 97.7400, sparsity: 68.3384
+Epoch: 79, train_acc: 99.6311, val_acc: 97.0600, sparsity: 68.3384
+Epoch: 80, train_acc: 99.6022, val_acc: 97.3200, sparsity: 68.3384
+Epoch: 81, train_acc: 99.6311, val_acc: 97.5600, sparsity: 68.3384
+Epoch: 82, train_acc: 99.6222, val_acc: 97.5000, sparsity: 68.3384
+Epoch: 83, train_acc: 99.6600, val_acc: 97.7000, sparsity: 68.3384
+Epoch: 84, train_acc: 99.6556, val_acc: 97.6600, sparsity: 68.3384
+Epoch: 85, train_acc: 99.6556, val_acc: 97.3600, sparsity: 68.3384
+Epoch: 86, train_acc: 99.7222, val_acc: 97.5200, sparsity: 68.3384
+Epoch: 87, train_acc: 99.6067, val_acc: 97.5200, sparsity: 68.3384
+Epoch: 88, train_acc: 99.6756, val_acc: 97.6000, sparsity: 68.3384
+Epoch: 89, train_acc: 99.6333, val_acc: 97.7800, sparsity: 68.3384
+Epoch: 90, train_acc: 99.6644, val_acc: 97.4000, sparsity: 68.3384
+Epoch: 91, train_acc: 99.7000, val_acc: 97.4200, sparsity: 68.3384
+Epoch: 92, train_acc: 99.6911, val_acc: 97.3000, sparsity: 68.3384
+Epoch: 93, train_acc: 99.6667, val_acc: 97.5400, sparsity: 68.3384
+Epoch: 94, train_acc: 99.6511, val_acc: 97.6800, sparsity: 68.3384
+Epoch: 95, train_acc: 99.6178, val_acc: 97.0200, sparsity: 68.3384
+Epoch: 96, train_acc: 99.6200, val_acc: 97.5800, sparsity: 68.3384
+Epoch: 97, train_acc: 99.6911, val_acc: 97.0600, sparsity: 68.3384
+Epoch: 98, train_acc: 99.6578, val_acc: 97.5800, sparsity: 68.3384
+Epoch: 99, train_acc: 99.6844, val_acc: 97.3800, sparsity: 68.3384
+Epoch: 100, train_acc: 99.6911, val_acc: 97.6200, sparsity: 68.3384
+Epoch: 101, train_acc: 99.7333, val_acc: 97.4600, sparsity: 68.3384
+Epoch: 102, train_acc: 99.6800, val_acc: 97.3800, sparsity: 68.3384
+Epoch: 103, train_acc: 99.6311, val_acc: 97.7000, sparsity: 68.3384
+Epoch: 104, train_acc: 99.7267, val_acc: 97.7400, sparsity: 68.3384
+Epoch: 105, train_acc: 99.7044, val_acc: 97.4400, sparsity: 68.3384
+Epoch: 106, train_acc: 99.7200, val_acc: 97.4200, sparsity: 68.3384
+Epoch: 107, train_acc: 99.7067, val_acc: 97.5000, sparsity: 68.3384
+Epoch: 108, train_acc: 99.6689, val_acc: 97.6200, sparsity: 68.3384
+Epoch: 109, train_acc: 99.6756, val_acc: 96.9200, sparsity: 68.3384
+Epoch: 110, train_acc: 99.6133, val_acc: 97.2000, sparsity: 68.3384
+Epoch: 111, train_acc: 99.6956, val_acc: 97.2000, sparsity: 68.3384
+Epoch: 112, train_acc: 99.6489, val_acc: 97.3200, sparsity: 68.3384
+Epoch: 113, train_acc: 99.7178, val_acc: 97.3400, sparsity: 68.3384
+Epoch: 114, train_acc: 99.6711, val_acc: 97.6200, sparsity: 68.3384
+Epoch: 115, train_acc: 99.6800, val_acc: 97.3200, sparsity: 68.3384
+Epoch: 116, train_acc: 99.6911, val_acc: 97.3800, sparsity: 68.3384
+Epoch: 117, train_acc: 99.7511, val_acc: 97.4800, sparsity: 68.3384
+Epoch: 118, train_acc: 99.7289, val_acc: 97.4800, sparsity: 68.3384
+Epoch: 119, train_acc: 99.6956, val_acc: 97.1600, sparsity: 68.3384
+11 trials: score: 0.1156, train_acc:99.6956, val_acc:97.1600, test_acc:90.1500, sparsity:68.3384
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 91.3956, val_acc: 94.0600, sparsity: 59.9692
+12 trials: score: 0.1795, train_acc:91.3956, val_acc:94.0600, test_acc:87.7200, sparsity:59.9692
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 91.2689, val_acc: 94.9400, sparsity: 61.9591
+13 trials: score: 0.1647, train_acc:91.2689, val_acc:94.9400, test_acc:88.1900, sparsity:61.9591
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 93.7533, val_acc: 96.2000, sparsity: 58.5260
+14 trials: score: 0.1624, train_acc:93.7533, val_acc:96.2000, test_acc:88.5700, sparsity:58.5260
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 82.6756, val_acc: 88.3600, sparsity: 64.6548
+15 trials: score: 0.2224, train_acc:82.6756, val_acc:88.3600, test_acc:84.7200, sparsity:64.6548
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 94.2289, val_acc: 96.0400, sparsity: 64.1218
+16 trials: score: 0.1472, train_acc:94.2289, val_acc:96.0400, test_acc:88.4400, sparsity:64.1218
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+Epoch: 0, train_acc: 89.8044, val_acc: 93.5600, sparsity: 62.8186
+17 trials: score: 0.1759, train_acc:89.8044, val_acc:93.5600, test_acc:87.1200, sparsity:62.8186
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+

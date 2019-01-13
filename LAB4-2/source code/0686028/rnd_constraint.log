@@ -1,0 +1,143 @@
+python auto.py --arch resnet56_cifar --gpus=0 --lr=0.003 ../../../data.cifar10 -b=128 -j=1 --deterministic --resume='./pertrain base line/2018.11.08-213504/best.pth.tar' --rounds=20 --epochs=30
+Files already downloaded and verified
+Files already downloaded and verified
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+10.0
+Epoch: 0, train_acc: 91.4511, val_acc: 93.5800, sparsity: 66.5504
+1 trials: score: 0.1645, train_acc:91.4511, val_acc:93.5800, test_acc:88.2200, sparsity:66.5504
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.1645489120426915
+Epoch: 0, train_acc: 89.0778, val_acc: 92.6400, sparsity: 57.5066
+2 trials: score: 0.2011, train_acc:89.0778, val_acc:92.6400, test_acc:86.9400, sparsity:57.5066
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.1645489120426915
+Epoch: 0, train_acc: 92.9022, val_acc: 95.2800, sparsity: 59.8809
+3 trials: score: 0.1676, train_acc:92.9022, val_acc:95.2800, test_acc:88.7800, sparsity:59.8809
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.1645489120426915
+Epoch: 0, train_acc: 94.2422, val_acc: 95.9200, sparsity: 61.4135
+4 trials: score: 0.1566, train_acc:94.2422, val_acc:95.9200, test_acc:88.5700, sparsity:61.4135
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.1565596441120652
+Epoch: 0, train_acc: 92.0444, val_acc: 94.1800, sparsity: 61.1647
+5 trials: score: 0.1747, train_acc:92.0444, val_acc:94.1800, test_acc:88.4200, sparsity:61.1647
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.1565596441120652
+Epoch: 0, train_acc: 88.4511, val_acc: 92.3200, sparsity: 67.2153
+6 trials: score: 0.1752, train_acc:88.4511, val_acc:92.3200, test_acc:87.2300, sparsity:67.2153
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.1565596441120652
+Epoch: 0, train_acc: 92.1822, val_acc: 94.6600, sparsity: 59.1565
+7 trials: score: 0.1759, train_acc:92.1822, val_acc:94.6600, test_acc:88.4100, sparsity:59.1565
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.1565596441120652
+Epoch: 0, train_acc: 95.2178, val_acc: 96.6200, sparsity: 63.1227
+8 trials: score: 0.1444, train_acc:95.2178, val_acc:96.6200, test_acc:89.2400, sparsity:63.1227
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.14443201112384668
+Epoch: 0, train_acc: 88.6067, val_acc: 91.5600, sparsity: 61.2630
+9 trials: score: 0.2006, train_acc:88.6067, val_acc:91.5600, test_acc:86.8200, sparsity:61.2630
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.14443201112384668
+Epoch: 0, train_acc: 92.2044, val_acc: 94.5600, sparsity: 66.8386
+10 trials: score: 0.1539, train_acc:92.2044, val_acc:94.5600, test_acc:88.3500, sparsity:66.8386
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.14443201112384668
+Epoch: 0, train_acc: 91.5978, val_acc: 94.3400, sparsity: 66.0233
+11 trials: score: 0.1585, train_acc:91.5978, val_acc:94.3400, test_acc:87.7700, sparsity:66.0233
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.14443201112384668
+Epoch: 0, train_acc: 90.4511, val_acc: 93.2200, sparsity: 65.4194
+12 trials: score: 0.1715, train_acc:90.4511, val_acc:93.2200, test_acc:87.1500, sparsity:65.4194
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.14443201112384668
+Epoch: 0, train_acc: 91.9178, val_acc: 94.1600, sparsity: 67.3181
+13 trials: score: 0.1564, train_acc:91.9178, val_acc:94.1600, test_acc:88.0500, sparsity:67.3181
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.14443201112384668
+Epoch: 0, train_acc: 92.7689, val_acc: 95.0400, sparsity: 66.6444
+14 trials: score: 0.1497, train_acc:92.7689, val_acc:95.0400, test_acc:88.4800, sparsity:66.6444
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.14443201112384668
+Epoch: 0, train_acc: 89.1422, val_acc: 92.3200, sparsity: 72.1488
+Epoch: 1, train_acc: 90.1756, val_acc: 91.5000, sparsity: 72.1488
+Epoch: 2, train_acc: 91.8844, val_acc: 90.9600, sparsity: 72.1488
+Epoch: 3, train_acc: 92.7756, val_acc: 91.9400, sparsity: 72.1488
+Epoch: 4, train_acc: 93.3822, val_acc: 92.6200, sparsity: 72.1488
+Epoch: 5, train_acc: 95.8622, val_acc: 94.3400, sparsity: 72.1488
+Epoch: 6, train_acc: 96.0689, val_acc: 94.8200, sparsity: 72.1488
+Epoch: 7, train_acc: 96.3422, val_acc: 94.9200, sparsity: 72.1488
+Epoch: 8, train_acc: 96.5978, val_acc: 94.6800, sparsity: 72.1488
+Epoch: 9, train_acc: 96.7178, val_acc: 94.6400, sparsity: 72.1488
+Epoch: 10, train_acc: 96.6911, val_acc: 95.3000, sparsity: 72.1488
+Epoch: 11, train_acc: 96.7422, val_acc: 95.6200, sparsity: 72.1488
+Epoch: 12, train_acc: 97.0067, val_acc: 95.0600, sparsity: 72.1488
+Epoch: 13, train_acc: 97.1244, val_acc: 95.7200, sparsity: 72.1488
+Epoch: 14, train_acc: 97.2578, val_acc: 95.3800, sparsity: 72.1488
+Epoch: 15, train_acc: 98.0733, val_acc: 95.4600, sparsity: 72.1488
+Epoch: 16, train_acc: 98.1756, val_acc: 96.2200, sparsity: 72.1488
+Epoch: 17, train_acc: 98.1378, val_acc: 96.0400, sparsity: 72.1488
+Epoch: 18, train_acc: 98.2711, val_acc: 96.2000, sparsity: 72.1488
+Epoch: 19, train_acc: 98.3978, val_acc: 96.0200, sparsity: 72.1488
+Epoch: 20, train_acc: 98.4089, val_acc: 95.7400, sparsity: 72.1488
+Epoch: 21, train_acc: 98.4244, val_acc: 96.2000, sparsity: 72.1488
+Epoch: 22, train_acc: 98.7978, val_acc: 96.4600, sparsity: 72.1488
+Epoch: 23, train_acc: 98.8133, val_acc: 96.3400, sparsity: 72.1488
+Epoch: 24, train_acc: 98.8311, val_acc: 95.8400, sparsity: 72.1488
+Epoch: 25, train_acc: 98.8822, val_acc: 96.3400, sparsity: 72.1488
+Epoch: 26, train_acc: 98.9000, val_acc: 96.8400, sparsity: 72.1488
+Epoch: 27, train_acc: 98.9156, val_acc: 96.5600, sparsity: 72.1488
+Epoch: 28, train_acc: 98.9289, val_acc: 96.5200, sparsity: 72.1488
+Epoch: 29, train_acc: 98.9000, val_acc: 96.6000, sparsity: 72.1488
+15 trials: score: 0.1152, train_acc:98.9000, val_acc:96.6000, test_acc:90.3800, sparsity:72.1488
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.11515357109303061
+Epoch: 0, train_acc: 91.4178, val_acc: 92.5400, sparsity: 62.2461
+16 trials: score: 0.1879, train_acc:91.4178, val_acc:92.5400, test_acc:87.0300, sparsity:62.2461
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.11515357109303061
+Epoch: 0, train_acc: 92.5511, val_acc: 94.7200, sparsity: 65.7879
+17 trials: score: 0.1554, train_acc:92.5511, val_acc:94.7200, test_acc:88.1800, sparsity:65.7879
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.11515357109303061
+Epoch: 0, train_acc: 87.6978, val_acc: 91.5800, sparsity: 67.9245
+Epoch: 1, train_acc: 88.7622, val_acc: 89.1000, sparsity: 67.9245
+Epoch: 2, train_acc: 91.2733, val_acc: 88.6600, sparsity: 67.9245
+Epoch: 3, train_acc: 92.3156, val_acc: 91.0600, sparsity: 67.9245
+Epoch: 4, train_acc: 92.9733, val_acc: 93.2000, sparsity: 67.9245
+Epoch: 5, train_acc: 95.1022, val_acc: 93.7600, sparsity: 67.9245
+Epoch: 6, train_acc: 95.5200, val_acc: 94.0800, sparsity: 67.9245
+Epoch: 7, train_acc: 95.7867, val_acc: 94.7800, sparsity: 67.9245
+Epoch: 8, train_acc: 95.9289, val_acc: 94.2800, sparsity: 67.9245
+Epoch: 9, train_acc: 96.4222, val_acc: 95.0000, sparsity: 67.9245
+Epoch: 10, train_acc: 96.4289, val_acc: 94.7600, sparsity: 67.9245
+Epoch: 11, train_acc: 96.7733, val_acc: 94.7400, sparsity: 67.9245
+Epoch: 12, train_acc: 96.6178, val_acc: 95.1800, sparsity: 67.9245
+Epoch: 13, train_acc: 96.6489, val_acc: 95.3200, sparsity: 67.9245
+Epoch: 14, train_acc: 96.8978, val_acc: 94.3000, sparsity: 67.9245
+Epoch: 15, train_acc: 97.7067, val_acc: 95.1200, sparsity: 67.9245
+Epoch: 16, train_acc: 97.8978, val_acc: 94.5000, sparsity: 67.9245
+Epoch: 17, train_acc: 98.0289, val_acc: 95.3600, sparsity: 67.9245
+Epoch: 18, train_acc: 97.9956, val_acc: 95.3800, sparsity: 67.9245
+Epoch: 19, train_acc: 98.1156, val_acc: 94.9600, sparsity: 67.9245
+Epoch: 20, train_acc: 98.0356, val_acc: 96.1000, sparsity: 67.9245
+Epoch: 21, train_acc: 98.1089, val_acc: 95.8000, sparsity: 67.9245
+Epoch: 22, train_acc: 98.6133, val_acc: 95.6800, sparsity: 67.9245
+Epoch: 23, train_acc: 98.6578, val_acc: 95.7000, sparsity: 67.9245
+Epoch: 24, train_acc: 98.6733, val_acc: 95.9200, sparsity: 67.9245
+Epoch: 25, train_acc: 98.7422, val_acc: 96.2200, sparsity: 67.9245
+Epoch: 26, train_acc: 98.7733, val_acc: 96.0400, sparsity: 67.9245
+Epoch: 27, train_acc: 98.7333, val_acc: 96.0000, sparsity: 67.9245
+Epoch: 28, train_acc: 98.8133, val_acc: 96.0000, sparsity: 67.9245
+Epoch: 29, train_acc: 98.8422, val_acc: 95.8800, sparsity: 67.9245
+18 trials: score: 0.1340, train_acc:98.8422, val_acc:95.8800, test_acc:89.8200, sparsity:67.9245
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.11515357109303061
+Epoch: 0, train_acc: 91.4289, val_acc: 94.5800, sparsity: 61.0408
+19 trials: score: 0.1711, train_acc:91.4289, val_acc:94.5800, test_acc:88.4100, sparsity:61.0408
+resume mode: ./pertrain base line/2018.11.08-213504/best.pth.tar
+0.11515357109303061
+Epoch: 0, train_acc: 92.8156, val_acc: 94.8800, sparsity: 64.5942
+20 trials: score: 0.1574, train_acc:92.8156, val_acc:94.8800, test_acc:88.8300, sparsity:64.5942
+{'module.layer2.4.conv2.weight': 0.3275458810525381, 'module.layer3.2.conv2.weight': 0.6012570451895699, 'module.layer3.5.conv1.weight': 0.48321767235278656, 'module.layer2.0.conv1.weight': 0.9419258885220032, 'module.layer1.0.conv1.weight': 0.3267965063412874, 'module.layer1.5.conv2.weight': 0.4340461492744584, 'module.layer1.8.conv2.weight': 0.355737348044877, 'module.layer1.6.conv2.weight': 0.7832116799100424, 'module.layer2.3.conv1.weight': 0.8510186657934731, 'module.layer2.3.conv2.weight': 0.33690094308180163, 'module.layer3.1.conv1.weight': 0.7993994405997616, 'module.layer2.7.conv1.weight': 0.5486289408876792, 'module.layer1.8.conv1.weight': 0.5008309301536866, 'module.layer1.4.conv2.weight': 0.5807594931772186, 'module.layer2.2.conv2.weight': 0.6235928305547547, 'module.layer2.1.conv2.weight': 0.7324139196708481, 'module.layer3.8.conv2.weight': 0.7308004289324195, 'module.layer1.4.conv1.weight': 0.6840853230940243, 'module.layer3.6.conv1.weight': 0.3138369806440558, 'module.layer1.6.conv1.weight': 0.6757297597036718, 'module.layer2.5.conv1.weight': 0.7559125375824662, 'module.layer2.4.conv1.weight': 0.6099438631362277, 'module.layer2.1.conv1.weight': 0.7185465903156161, 'module.layer2.6.conv2.weight': 0.8589827449696157, 'module.layer2.7.conv2.weight': 0.346923473882068, 'module.layer1.7.conv1.weight': 0.9357083948292273, 'module.layer3.3.conv2.weight': 0.8553165575508499, 'module.layer1.3.conv2.weight': 0.4054845789592482, 'module.layer1.3.conv1.weight': 0.660027847705321, 'module.layer3.0.conv2.weight': 0.8333177731910166, 'module.layer3.1.conv2.weight': 0.6210544406731153, 'module.layer2.2.conv1.weight': 0.6177016869951966, 'module.layer3.7.conv2.weight': 0.8255709755646721, 'module.layer2.0.conv2.weight': 0.4552809074354387, 'module.layer1.1.conv2.weight': 0.4895996253478576, 'module.conv1.weight': 0.9069577859298623, 'module.layer3.4.conv2.weight': 0.7343530165906951, 'module.layer1.2.conv2.weight': 0.7753496342470143, 'module.layer3.7.conv1.weight': 0.9093278678470615, 'module.layer1.0.conv2.weight': 0.8463988610182474, 'module.layer1.7.conv2.weight': 0.401720611171903, 'module.layer3.2.conv1.weight': 0.5685515430267651, 'module.layer2.8.conv2.weight': 0.9552000891477541, 'module.layer3.8.conv1.weight': 0.9479506353272187, 'module.layer3.0.conv1.weight': 0.7505674838993694, 'module.layer3.4.conv1.weight': 0.7652165577457911, 'module.layer3.3.conv1.weight': 0.9551314513866374, 'module.layer2.8.conv1.weight': 0.9795532389735322, 'module.layer1.1.conv1.weight': 0.8453383441743103, 'module.layer1.2.conv1.weight': 0.34359847228880014, 'module.layer3.6.conv2.weight': 0.9838177086599083, 'module.layer3.5.conv2.weight': 0.9405866148362485, 'module.layer1.5.conv1.weight': 0.7926324107404431, 'module.layer2.6.conv1.weight': 0.44706821932449897, 'module.layer2.5.conv2.weight': 0.30021615060854245}
+
